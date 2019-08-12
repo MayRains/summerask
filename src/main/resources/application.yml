@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+user:
+  username: claris
+  password: root
+  email: qwe@icloud.com
+  money: true
+  birth: 2019/8/12
+  maps: {k1: v1,k2: v2}
+  lists:
+    - lemon
+    - mihoyo
+  car:
+    brand: BWM
+    period: 4
+
